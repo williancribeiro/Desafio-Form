@@ -89,7 +89,3 @@ print(previsao)
 Este projeto está licenciado sob a Licença MIT.
 
 ---
-
-## 📬 Contato
-
-Para dúvidas ou sugestões, envie um e-mail para [seu-email@dominio.com].
